@@ -4,4 +4,6 @@ This source uses a relational analogy of a pizza restaurant to introduce the fun
 # Reference 
 Gaurav Sen : https://www.youtube.com/watch?v=SqcXvc3ZmRU
 
+Takeyouforward : https://takeuforward.org/system-design/complete-system-design-roadmap-with-videos-for-sdes
+
 
